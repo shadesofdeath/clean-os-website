@@ -51,7 +51,7 @@ export default function Home() {
           <h1 className="text-lg font-bold">CleanOS</h1>
           <div className="flex items-center gap-2">
             <Button variant="ghost" size="sm" asChild>
-              <a href="https://github.com/yourusername/cleanos" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5">
+              <a href="https://github.com/shadesofdeath/clean-os" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5">
                 <Github size={14} />
                 <span className="hidden sm:inline text-xs">GitHub</span>
               </a>
