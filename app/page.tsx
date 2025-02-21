@@ -11,13 +11,13 @@ export default function Home() {
       name: "Windows 11 24H2",
       version: "26100.1742",
       size: "4.66 GB",
-      downloadUrl: "https://pixeldrain.com/api/file/8P3RzZUz?download"
+      downloadUrl: "https://pixeldrain.com/u/8P3RzZUz"
     },
     {
       name: "Windows 10 22H2",
       version: "19045.4894",
       size: "4.58 GB",
-      downloadUrl: "https://pixeldrain.com/api/file/u8xaXXXE?download"
+      downloadUrl: "https://pixeldrain.com/u/u8xaXXXE"
     }
   ];
 
